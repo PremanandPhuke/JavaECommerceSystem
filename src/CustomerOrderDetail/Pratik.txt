@@ -1,0 +1,1 @@
+Product id= 1Product Name= Samsung M10Product Category= Electronic DeviceProduct Cost= 10,000
